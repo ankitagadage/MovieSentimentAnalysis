@@ -11,11 +11,17 @@ Pip, Jupyter, Python3, Facebook python client, googleapiclient, oauth2client, bo
 The following steps show how to install the prerequisites.
 ● Installing pip (URL)
 ○ sudo apt-get install pip
+
 ● Installing jupyter (http://jupyter.readthedocs.io/en/latest/install.html) ○ sudo pip install jupyter
+
 ● Installing Python (URL)
+
 ○ sudo apt-get install python3.x
+
 ● Installing bokeh (https://bokeh.pydata.org/en/latest/docs/installation.html)
+
 ○ sudo pip install bokeh
+
 ● Installing youtube (https://developers.google.com/youtube/v3/quickstart/python)
 ○ pip install --upgrade google-api-python-client
 ● Installing FaceBook Api (http://facebook-sdk.readthedocs.io/en/latest/install.html)
